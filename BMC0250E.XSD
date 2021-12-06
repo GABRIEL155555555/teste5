@@ -5,7 +5,7 @@
     elementFormDefault='qualified'
     version='5.02'>
  
-<!-- Definicao da mensagem -->
+<!-- Definicao da mensagem -->o
  
 <xs:element name='DOC' type='DOCComplexType'/>
  
